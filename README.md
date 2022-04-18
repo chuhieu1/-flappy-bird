@@ -1,4 +1,4 @@
-# ưu điểm
+# Ưu điểm
 - Code thoáng, dễ nhìn.
 - Có comment thường xuyên, mô tả khá chi tiết.
 - Các folder trong assets phân chia cẩn thận, rõ ràng.
